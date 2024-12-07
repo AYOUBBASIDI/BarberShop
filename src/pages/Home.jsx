@@ -65,7 +65,7 @@ const LandingPage = () => {
         </div>
       </section>
 
-      <section className="py-20 bg-[url('./bg.jpg')] bg-cover bg-fixed">
+      <section className="py-20 bg-[url('https://github.com/AYOUBBASIDI/BarberShop/blob/main/public/bg.jpg?raw=true')] bg-cover bg-fixed">
         <div className="container mx-auto px-6">
           <h2 className="text-4xl text-center font-bold text-white mb-16">Services Menu</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-12">
@@ -181,7 +181,7 @@ const LandingPage = () => {
         </div>
       </section>
 
-      <section className="py-20 bg-gray-800 bg-[url('./bg.jpg')] bg-cover bg-fixed" >
+      <section className="py-20 bg-gray-800 bg-[url('https://github.com/AYOUBBASIDI/BarberShop/blob/main/public/bg.jpg?raw=true')] bg-cover bg-fixed" >
         <div className="container mx-auto px-6">
           <h2 className="text-4xl text-center font-bold text-white mb-16">Master Craftsmen</h2>
           <div className="grid md:grid-cols-4 gap-8">
