@@ -65,7 +65,7 @@ const LandingPage = () => {
         </div>
       </section>
 
-      <section className="py-20 bg-[url('https://img.freepik.com/free-vector/hairdress-tools-background-with-comb-scissors-table-realistic_1284-33281.jpg?t=st=1733585836~exp=1733589436~hmac=d3cd596fe9754a3e870bdd5a7b2f0923010469892b730014c1b56b8fa69ece34&w=1380')] bg-cover bg-fixed">
+      <section className="py-20 bg-[url('./bg.jpg')] bg-cover bg-fixed">
         <div className="container mx-auto px-6">
           <h2 className="text-4xl text-center font-bold text-white mb-16">Services Menu</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-12">
@@ -181,7 +181,7 @@ const LandingPage = () => {
         </div>
       </section>
 
-      <section className="py-20 bg-gray-800 bg-[url('https://img.freepik.com/free-vector/hairdress-tools-background-with-comb-scissors-table-realistic_1284-33281.jpg?t=st=1733585836~exp=1733589436~hmac=d3cd596fe9754a3e870bdd5a7b2f0923010469892b730014c1b56b8fa69ece34&w=1380')] bg-cover bg-fixed" >
+      <section className="py-20 bg-gray-800 bg-[url('./bg.jpg')] bg-cover bg-fixed" >
         <div className="container mx-auto px-6">
           <h2 className="text-4xl text-center font-bold text-white mb-16">Master Craftsmen</h2>
           <div className="grid md:grid-cols-4 gap-8">
